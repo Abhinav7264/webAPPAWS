@@ -74,7 +74,6 @@ AWS requires IAM roles for managing resources. Create the following roles:
 
 ### 🔹 **Step 5: Configure Updates, Monitoring, and Logging**
 
-…scroll down…
 
 #### **Environment Properties**
 Add environment property:
