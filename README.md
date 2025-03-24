@@ -1,4 +1,5 @@
 ## 🚀 Deploying a Scalable Web Application on AWS
+![PORTFOLIO PROJECTS_AWS - MODULE 4_ARCHITECTURE](https://github.com/user-attachments/assets/823ca864-a3c3-4556-a8d7-781dd39ce55e)
 
 Ensuring high availability and scalability is crucial for any cloud-based application. This guide provides a detailed step-by-step process for deploying an application using AWS services such as Elastic Beanstalk, DynamoDB, and CloudFront. By the end of this setup, your application will be optimized for performance, security, and seamless scalability. 
 
