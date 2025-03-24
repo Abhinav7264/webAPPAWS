@@ -29,7 +29,7 @@ Elastic Beanstalk simplifies the deployment and management of applications in AW
 1. **Create an Elastic Beanstalk Application**
    - **Application Name:** `tcb-conference`
    - **Platform:** Python 🐍
-   - **Upload Code:** Use a public S3 URL to upload the package.
+   - **Upload Code:** Use a public S3 URL to upload the python code.
    - **Select Configuration Preset:** `High Availability` 🌍
    
 2. **Auto Scaling & Load Balancing**
